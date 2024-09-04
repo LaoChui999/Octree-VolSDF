@@ -1,4 +1,5 @@
 A beta version for Real-time volume rendering with octree-based implicit surface representation. Comput. Aided Geom. 
+
 @article{10.1016/j.cagd.2024.102322,
 author = {Li, Jiaze and Zhang, Luo and Hu, Jiangbei and Zhang, Zhebin and Sun, Hongyu and Song, Gaochao and He, Ying},
 title = {Real-time volume rendering with octree-based implicit surface representation},
